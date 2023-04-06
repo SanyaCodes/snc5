@@ -28,13 +28,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23D179A1.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23BB5A86.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23902F5B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23541478.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%2376359A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%239D66BB.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23902F5B.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23BB5A86.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23D179A1.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%239D66BB.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%2376359A.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23541478.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
