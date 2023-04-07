@@ -1,4 +1,4 @@
-Hi, I’m Sanya (@SanyaCodes). Welcome to my page.
+Hi, I’m Sanya. Welcome to my page!
 
 - 💻 My GitHub contains a lot of repositories that display the projects I do
 - 👀 I’m interested in Data Science and Machine Learning
